@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#maintxt{
+    font-size: 24px;
+}
+.box{
+    color: white;
+    width: fit-content;
+    background-color: gray;
+    padding: 10px;
+    margin: 1px;
+}
+p.openbox{
+    background-color: white;
+  width: auto;
+  border:1px solid black;
+  padding: 10px;
+  margin: 1px;
+  color: black;
+    /*outline-style: solid;*/
+}
+button {
+    border-radius: 7px;
+    cursor: pointer;
+    background-color: lightpink;
+    color:black;
+    padding: 10px;
+    margin: 1px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+form{
+    width: fit-content;
+    height: fit-content;
+}
+#flt{
+    float: right;
+}
+#hite{
+    height: 200px;
+}

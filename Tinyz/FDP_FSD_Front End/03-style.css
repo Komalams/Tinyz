@@ -1,0 +1,11 @@
+.section{
+    color: aqua;
+    font-size: small;
+}
+.box{
+    border: 1px solid;
+    color: purple;
+}
+div{
+    color: gray;
+}

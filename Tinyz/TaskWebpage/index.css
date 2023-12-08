@@ -1,0 +1,93 @@
+h3{
+  margin-right: 0pt;
+  margin-top: 0pt;
+  font-weight: bold;
+  padding: 20px;
+  font-size: 180%;
+  color: darkblue;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.box {
+    border-radius: 10px;
+    padding: 25px;
+    font-weight: bold;
+    width: 20px;
+    height: 20px;
+    color: white;
+    text-align: justify;
+    background-color: lightblue;
+    float: left;
+    margin: 12px;
+    word-spacing: 5%;
+}
+
+#bl{
+  color: darkblue;
+}
+
+#imge {
+  border-radius: 25%;
+  width: 5%;
+  height: 5%;
+  margin: 10px;
+}
+
+div{
+  padding: 5px;
+}
+
+p {
+  color:rgb(107, 107, 107);
+  margin: 20px;
+  font-size: 120%;
+}
+
+#clor {
+  color: purple;
+  font-weight: bolder;
+  margin: 20px;
+  font-size: 300%;
+  font-family: "fantasy", Verdana, Geneva, Tahoma, sans-serif;
+  
+  }
+
+#clor1 {
+  color: purple;
+  font-weight: bolder;
+  margin: 20px;
+  font-size: 250%;
+  font-family: "fantasy", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  width: fit-content;
+  height: fit-content;
+  padding-left: 5%;
+  align-content: stretch;
+  background-color: rgb(253, 245, 253);
+  font-display: initial;
+}
+
+.bg {
+  background-image: url("image/BoyMotorcycle.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: top; 
+  opacity: inherit;
+}
+button{
+  border-radius: 15px;
+  border-color: blue;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 25px;
+  width: 250px;
+  cursor: pointer;
+  position: absolute;
+  top: 20px;
+  right: 250px;
+}
